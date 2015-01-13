@@ -14,7 +14,7 @@ LAYOUT   := andrew-keyboard  # keyboard layout
 				# available
 
 LED_BRIGHTNESS := 0.5  # a multiplier, with 1 being the max
-DEBOUNCE_TIME := 5  # in ms; see keyswitch spec for necessary value; 5ms should
+DEBOUNCE_TIME := 10  # in ms; see keyswitch spec for necessary value; 5ms should
 		    #   be good for cherry mx switches
 
 
